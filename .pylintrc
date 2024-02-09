@@ -6,7 +6,7 @@ disable=
       W0703, # Catching too general exception Exception
       R0903, # too-few-public-methods
 	W0719, # broad-exception-raised
-      E1101, # no-member
+    
 
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
